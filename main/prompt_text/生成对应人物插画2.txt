@@ -1,0 +1,35 @@
+A fashion-style concept breakdown sheet in hand-drawn illustration style.
+Center: full-body view of a stylish, confident female character with a slightly sexy vibe (not explicit), in a dynamic yet natural pose.
+Surrounding: structured layout of her key components:
+• Clothing layering – show outerwear, innerwear, tights (lace, sheer textures), shapewear with detailed pattern zoom-ins.
+• Expression sheet – 3-4 facial expressions (neutral, shy, surprised, focused).
+• Close-up zooms – textures of fabric folds, skin details, hand gestures.
+• Lifestyle & accessories – open handbag with daily items: lipstick, perfume, mirror compact, hand cream, diary, supplements.
+• Material annotations – handwritten-style notes beside each item (e.g., “soft lace,” “matte leather,” “shade #520”).
+
+Background: soft beige or parchment paper texture to evoke a design sketchbook.
+Lighting: clean, soft shadows to unify the scene.
+Output: high-quality 2D illustration in 4K, balanced between sensuality and fashion editorial.
+Language: labels in Chinese + English.
+
+对应翻译:
+这是一份时尚风格概念分解表，采用手绘插画风格。
+
+中心： 一位充满自信、时尚感的女性角色的全身视图，姿势动态且自然，带有轻微的性感氛围（非露骨）。
+
+周围： 结构化的布局展示她的关键组成部分：
+
+服装层次： 展示外套、内衣、紧身衣（蕾丝、透明材质），塑身衣的细节图案放大。
+
+表情表： 3-4个面部表情（中性、害羞、惊讶、专注）。
+
+特写镜头： 服装褶皱、皮肤细节、手势的特写。
+
+生活方式与配饰： 打开手提包，包内的日常物品：口红、香水、化妆镜、护手霜、日记本、保健品。
+
+材质注释： 在每个物品旁边手写风格的注释（如：“柔软蕾丝”，“哑光皮革”，“色号#520”）。
+
+背景： 软米色或羊皮纸纹理，以营造设计手册的感觉。
+光线： 清晰柔和的阴影以统一场景。
+输出： 高质量的2D插画，4K分辨率，平衡性感与时尚编辑风格。
+语言： 标签使用中英文。
